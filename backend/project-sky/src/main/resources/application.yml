@@ -1,0 +1,9 @@
+serve:
+  port: 8081
+spring:
+  application:
+    name: projectsky
+  datasource:
+    username: root
+    password: 123456
+    url:
